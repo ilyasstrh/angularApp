@@ -1,3 +1,2 @@
-# angular-3p1wbq-bbofg5
+# angular-app
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-3p1wbq-bbofg5)
